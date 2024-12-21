@@ -2,7 +2,7 @@
 Отчет по лабораторной работе #1 выполнил(а):
 - Юсупова Алина Руслановна
 - РИ-230918
-Отметка о выполнении заданий (заполняется студентом): 120
+Отметка о выполнении заданий (заполняется студентом): 
 
 | Задание | Выполнение | Баллы |
 | ------ | ------ | ------ |
@@ -46,7 +46,7 @@
 
 
 
-![image](https://github.com/sssfgggm/wss/blob/main/wsm1.jpg)
+![image](https://github.com/alinaminignomi/WORKSHOPS/blob/main/c77fdaca-36c2-4b16-9380-29d222430f49111.jpg)
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
@@ -74,7 +74,7 @@ public class HI : MonoBehaviour
 
 ```
 - Повесить скрипт на объект и запустить проект.
-  ![image](https://github.com/sssfgggm/wss/blob/main/wsm2.jpg)
+  ![image](https://github.com/alinaminignomi/WORKSHOPS/blob/main/8d2156fe-65f8-4e7e-affe-cd0d6e8db881222.jpg)
 
 
 ## Задание 3
